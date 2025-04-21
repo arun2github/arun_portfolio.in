@@ -1,0 +1,127 @@
+{
+  "name": "Arun Kumar",
+  "helloTag": "Hi there,",
+  "welcomeTag": "Welcome to My Tech Haven",
+  "Father's name": "Fago Chaudhary",
+  "Mother's name": "Mala Devi",
+  "Date of Birth": "1st Feb",
+  "titles": [
+    "Mobile Application Developer",
+    "Web Developer"
+  ],
+  "about": [
+    "I'm a passionate Flutter Developer with a background in web development and React over 3+ years of experience. I specialize in creating high-performing, cross-platform applications with a focus on clean, efficient code and seamless user experiences.",
+    "Active in open-source communities, I’m always learning and exploring emerging technologies. Outside of work, I enjoy music, reading, and experimenting with creative recipes."
+  ],
+  "services": [
+    {"title": "App Developer", "icon": "flutter"},
+    {"title": "Web Developer", "icon": "web"},
+    {"title": "React Developer", "icon": "react"},
+    {"title": "Backend Developer", "icon": "backend"}
+  ],
+  "technologies": [
+    "HTML 5", "CSS 3", "JavaScript", "Ruby", "Ruby On Rails",
+    "React JS", "Redux Toolkit", "Material UI", "Tailwind CSS",
+    "Node JS", "SQL", "JWT", "Git", "Figma", "Dialogflow", "Flutter"
+  ],
+  "Skills": [
+    "HTML 5", "CSS 3", "JavaScript", "Ruby", "Ruby On Rails",
+    "React JS", "Redux Toolkit", "Material UI", "Tailwind CSS",
+    "Node JS", "SQL", "JWT", "Git", "Figma", "Dialogflow", "Flutter"
+  ],
+  "language": [
+    "HTML 5", "CSS 3", "JavaScript", "Ruby", "Ruby On Rails",
+    "React JS", "Redux Toolkit", "Material UI", "Tailwind CSS",
+    "Node JS", "SQL", "JWT", "Git", "Figma", "Dialogflow", "Flutter"
+  ],
+  "experience": [
+    {
+      "title": "Flutter Developer",
+      "company": "Fincare Small Finance Bank",
+      "date": "Jun 2022 - ongoing",
+      "points": [
+        "Developing and maintaining apps using Flutter and Material Design.",
+        "Develop reusable Widgets and write efficient code using GetX."
+      ]
+    },
+    {
+      "title": "React.js Developer",
+      "company": "Schrocken Inc.",
+      "date": "May 2022 - April 2023",
+      "points": [
+        "Developed web applications using React.js, Material UI, and Redux.",
+        "Implemented responsive design and ensured cross-browser compatibility.",
+        "Optimized Redux store and state management for better performance."
+      ]
+    },
+    {
+      "title": "Associate NodeJS Developer",
+      "company": "Celebal Technology",
+      "date": "Sep 2021 - May 2022",
+      "points": [
+        "Developed and maintained chatbots using Node.js and Dialogflow.",
+        "Integrated chatbots with third-party APIs for automation.",
+        "Implemented conversational design patterns."
+      ]
+    },
+    {
+      "title": "ROR Developer",
+      "company": "Chetu Inc.",
+      "date": "Jan 2022 - Jan 2023",
+      "points": [
+        "Developed and maintained web applications using React.js and Ruby on Rails.",
+        "Collaborated with cross-functional teams to create high-quality products.",
+        "Ensured cross-browser compatibility and responsive UI."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Tech",
+      "college": "Greater Noida Institute Of Technology",
+      "branch": "Computer Science Engineering",
+      "date": "May 2015 - May 2019",
+      "percentage": "69.2%"
+    },
+    {
+      "title": "Intermediate",
+      "college": "Jawahar Navodaya Vidyalaya RangaReddy Hyderabad",
+      "branch": "Mathematics",
+      "date": "May 2012 - May 2015",
+      "percentage": "82.2%"
+    },
+    {
+      "title": "Matriculation",
+      "college": "Jawahar Navodaya Vidyalaya Supaul Bihar",
+      "branch": "Mathematics",
+      "date": "May 2010 - May 2012",
+      "percentage": "84.6%"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Relationship Manager Website",
+      "description": "A feature-rich Microsoft Kaizala clone using Flutter, GetX, and Material Design.",
+      "technologies": ["Flutter", "Material Design", "GetX"],
+      "sourceCode": "https://github.com/"
+    },
+    {
+      "name": "Netflix Clone",
+      "description": "A replica of Netflix using React and GraphQL.",
+      "technologies": ["ReactJS", "GraphQL API", "DataStax AstraDB", "Netlify"],
+      "sourceCode": "https://github.com/arun2github/workshop-graphql-netflix"
+    },
+    {
+      "name": "Node Mailer",
+      "description": "A bulk email sender using Node.js and Nodemailer.",
+      "technologies": ["NodeJS", "JavaScript", "SQL"],
+      "sourceCode": "https://github.com/arun2github/Nodemailer/tree/master"
+    }
+  ],
+  "socialMedia": {
+    "LinkedIn": "https://www.linkedin.com/in/imarunjnv/",
+    "Instagram": "https://www.instagram.com/infamous_fluky/",
+    "Facebook": "https://www.facebook.com/arun.disambiguation?mibextid=ZbWKwL",
+    "GitHub": "https://github.com/arun2github"
+  }
+}

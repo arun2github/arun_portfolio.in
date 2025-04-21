@@ -1,0 +1,44 @@
+{
+  "hrAnswers": [
+    {
+      "question": "Tell me about yourself",
+      "answer": "I'm Arun Kumar, a passionate Mobile and Web Developer with over 3 years of professional experience. I specialize in Flutter for cross-platform app development and React for modern web interfaces. My journey began with a Computer Science degree, and since then I've worked at firms like Fincare Small Finance Bank and Schrocken Inc., where I developed scalable apps and solutions. I take pride in writing clean, efficient code and constantly learning new technologies. Outside of coding, I enjoy music, reading, and cooking."
+    },
+    {
+      "question": "What are your strengths?",
+      "answer": "My key strengths include strong problem-solving skills, adaptability to new tools and frameworks, and a solid grasp of full-stack development using Flutter, Node.js, and React. I’m also known for being dependable in team environments, and I have a consistent track record of meeting deadlines while maintaining quality."
+    },
+    {
+      "question": "What are your weaknesses?",
+      "answer": "One area I continuously work on is delegation. Earlier in my career, I tended to take on too much responsibility myself. However, I’ve since learned the importance of collaboration and now strive to balance ownership with effective team communication and task-sharing."
+    },
+    {
+      "question": "Why should we hire you?",
+      "answer": "You should hire me because I offer a combination of proven technical expertise and a proactive mindset. I’ve contributed to impactful projects, including internal apps that improved operational efficiency for banks. I'm reliable, quick to adapt, and always focused on delivering real value to both users and the business."
+    },
+    {
+      "question": "Where do you see yourself in five years?",
+      "answer": "In five years, I envision myself in a lead developer or architectural role, mentoring junior developers and driving innovation on large-scale projects. I also aim to contribute more to open-source communities and explore AI integration in mobile solutions."
+    },
+    {
+      "question": "Tell me about a challenge you faced and how you overcame it",
+      "answer": "At Schrocken Inc., I once worked on a performance-heavy React dashboard that had major load time issues. After analyzing bottlenecks, I refactored components, optimized Redux state management, and lazy-loaded non-essential resources. This reduced the load time by 60%, earning appreciation from both users and management."
+    },
+    {
+      "question": "How do you handle pressure and deadlines?",
+      "answer": "I thrive under pressure by prioritizing tasks, setting clear milestones, and communicating proactively with stakeholders. I use tools like Trello and JIRA to stay organized and make sure my work aligns with the team's timelines and expectations."
+    },
+    {
+      "question": "Are you willing to relocate or work remotely?",
+      "answer": "Yes, I’m open to both relocation and remote work. My priority is to contribute meaningfully to the company, and I believe modern tools enable effective collaboration regardless of location."
+    },
+    {
+      "question": "What are your salary expectations?",
+      "answer": "I’m looking for a role that’s not only financially rewarding but also aligned with my skill level and growth aspirations. I'm open to discussing a fair package based on the company’s structure and the value I bring."
+    },
+    {
+      "question": "Do you have any questions for us?",
+      "answer": "Yes, I’d love to know more about your team's tech stack, current projects, and how success is measured within the role I’m applying for. I’m also curious about learning opportunities and the company’s vision for innovation."
+    }
+  ]
+}

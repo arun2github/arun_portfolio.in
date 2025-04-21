@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Base URL for GitHub Pages. Ensure this matches your repository name. -->
-  <base href="/arun_portfolio.in/">
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="description" content="A personal portfolio built with Flutter.">
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
 
-  <!-- Meta tags for mobile optimization -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="mobile-web-app-capable" content="yes">
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="personal_portfolio">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <!-- Icons -->
-  <link rel="icon" type="image/png" href="/arun_portfolio.in/favicon.png">
-  <link rel="apple-touch-icon" href="/arun_portfolio.in/icons/Icon-192.png">
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <!-- Manifest -->
-  <link rel="manifest" href="/arun_portfolio.in/manifest.json">
+  <title>personal_portfolio</title>
+  <link rel="manifest" href="manifest.json">
 
-  <!-- Title -->
-  <title>Arun's Portfolio</title>
-
-  <!-- Flutter initialization -->
   <script>
-    // The value below is injected by Flutter build; do not modify.
-    const serviceWorkerVersion = "1016117936";
+    // The value below is injected by flutter build, do not touch.
+    var serviceWorkerVersion = '1811270455';
   </script>
-  <script src="/arun_portfolio.in/flutter.js" defer></script>
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
 </head>
 <body>
   <script>
-    window.addEventListener('load', function() {
-      // Initialize Flutter app
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
